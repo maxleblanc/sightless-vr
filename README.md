@@ -21,7 +21,7 @@ Way-finding through virtual spaces using haptics and VR tracking.
 
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=C%2B%2B&logoColor=white)
   ![Rhino 3D](https://img.shields.io/badge/Rhino_3D-lightgrey?style=for-the-badge&logo=Rhinoceros)
   ![Grasshopper](https://img.shields.io/badge/Grasshopper-green?style=for-the-badge&logo=Rhinoceros)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
