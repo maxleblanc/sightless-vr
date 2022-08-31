@@ -9,10 +9,11 @@
 <h3 align="center">Sightless VR</h3>
 
 <p align="center">
-Way-finding through virtual spaces using haptics and VR tracking.
-  
-  Completed on Dec. 2019
+Way-finding through virtual spaces using haptics and VR tracking. </br>
+Completed on Dec. 2019
 <div align="center">
+  
+
 
 
 <div align="center">
