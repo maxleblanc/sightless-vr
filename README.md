@@ -10,6 +10,8 @@
 
 <p align="center">
 Way-finding through virtual spaces using haptics and VR tracking.
+  
+  Completed on Dec. 2019
 <div align="center">
 
 
